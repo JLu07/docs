@@ -1,0 +1,38 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.mySidebar.category.DeepGo Intro": {
+    "message": "项目简介",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.Mechanism": {
+    "message": "机制相关",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.Contract": {
+    "message": "合约",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.How to Guides": {
+    "message": "操作指南",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.Tokenomics": {
+    "message": "代币经济",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.DeepGo NFT": {
+    "message": "DeepGo NFT",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.Whitepaper": {
+    "message": "白皮书",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.FAQ": {
+    "message": "FAQ",
+    "description": "The label for category"
+  }
+}
