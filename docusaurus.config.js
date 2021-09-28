@@ -6,7 +6,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 (module.exports = {
   title: 'DeepGo Docs',
   tagline: 'DeepGo',
-  url: 'https://DeepGoLab.github.io/docs',
+  url: 'https://DeepGoLab.github.io',
   baseUrl: '/docs/',
   onBrokenLinks: 'ignore',
   onBrokenMarkdownLinks: 'warn',
@@ -45,6 +45,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
           {
             to: 'docs/',
             type: 'doc',
+            activeBasePath: "docs",
             docId: 'intro',
             position: 'left',
             label: 'Docs',
