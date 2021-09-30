@@ -4,7 +4,7 @@ title: 项目管理
 sidebar_label: 项目管理 
 ---
 
-您可以通过右上角折叠菜单![](https://cdn.nlark.com/yuque/0/2021/png/22535237/1631433706894-45e1c988-886a-463e-bc62-cb2b4584ef47.png#from=url&height=18&id=UWhNj&originHeight=32&originWidth=38&originalType=binary&ratio=1&status=done&style=none&width=21)进入“项目管理”页面。
+您可以通过右上角折叠菜单![](/img/menu.png)进入“项目管理”页面。
 ### · 申请建池
 您可以在“项目管理”页面：
 
@@ -17,6 +17,7 @@ sidebar_label: 项目管理
 1. 点击“发起建池”进入“发起建池”页面；
 1. 在页面点击“下一步 / 上一步”依次进入 / 返回“基础信息，质押设置，收费设置，建池周期，最终确认”页面进行设置&确认，或者点击页面左侧的页面清单快速跳转到某一页面；
 1. 可设置参数的具体事项如下：
+
 | 所在页面 | 字段名 | 字段英文名 | 解释和注意 |
 | --- | --- | --- | --- |
 | 基础信息 | 项目代币 | Token | 项目代币的符号 |

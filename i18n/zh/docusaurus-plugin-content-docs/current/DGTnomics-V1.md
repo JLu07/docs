@@ -13,7 +13,7 @@ DeepGo token集功能代币和治理代币于一体。
 **投票治理**：DGT用户可以对平台生态提出优化提案，投票治理，修改协议参数等。
 ### DGT分配
 DeepGo token总量为1亿枚，代币符号：DGT，DGT token的分配比例如下。
-![图片.png](https://cdn.nlark.com/yuque/0/2021/png/22306388/1630035954900-e478a23a-0ff9-420a-98eb-ea4698264e81.png#clientId=u0fabd68c-1a83-4&from=paste&height=277&id=u5590bebc&margin=%5Bobject%20Object%5D&name=%E5%9B%BE%E7%89%87.png&originHeight=612&originWidth=1116&originalType=binary&ratio=1&size=79639&status=done&style=none&taskId=u1e939941-df42-4362-8522-69e2682ebee&width=506)
+![图片.png](/img/menu.png)
 
 - DeepGo团队：25%，锁仓2年，然后开始分3年解锁。
 - 生态激励：10%，共计1千万DGT，每年发放2%，5年分发完毕。

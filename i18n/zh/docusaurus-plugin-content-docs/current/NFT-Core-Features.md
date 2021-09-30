@@ -30,5 +30,5 @@ DeepGo NFT图片由x个元素构成，包括：1. 投资策略的风格；2. 自
 
 5. 完成铸造
 
-通过右上角折叠菜单![](https://cdn.nlark.com/yuque/0/2021/png/22535237/1631433706894-45e1c988-886a-463e-bc62-cb2b4584ef47.png#from=url&height=18&id=UWhNj&originHeight=32&originWidth=38&originalType=binary&ratio=1&status=done&style=none&width=21)进入“NFT 集邮”页面。点击蓝色“铸造”按钮，交易成功后即完成铸造。
+通过右上角折叠菜单![](/img/menu.png)进入“NFT 集邮”页面。点击蓝色“铸造”按钮，交易成功后即完成铸造。
 
