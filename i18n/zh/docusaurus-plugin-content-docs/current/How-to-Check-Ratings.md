@@ -3,3 +3,27 @@ id: How-to-Check-Ratings
 title: 项目评级
 sidebar_label: 项目评级
 ---
+
+### · 我的关注
+1. 在“探索”界面，您可以在“项目评级 / Top加速池 / Top奖金池”中挑选项目和池子点亮星标![image.png](https://cdn.nlark.com/yuque/0/2021/png/22535237/1631541496067-e7c09989-c101-4df9-a222-1fd77fbb53b4.png#clientId=u5b902cbe-8fbd-4&from=paste&height=18&id=u82284f40&name=image.png&originHeight=52&originWidth=57&originalType=binary&ratio=1&size=1058&status=done&style=none&taskId=u266952eb-5dda-48bb-aefb-4f63a4940bb&width=20)进行关注；
+1. 您可以在“我的关注”中查看&管理您关注的项目/池子。
+### · 项目评级
+您可以：
+
+1. 在“项目评级”中根据“价值 / 年化收益率 / 评级”进行排序；
+1. 点击项目名称进入详情页；
+1. 在详情页中看到该项目180天内的：
+   - 行情走势，
+   - 关键信息，
+   - 持币分布，
+   - 周活跃地址数趋势，
+   - 百大持币地址；
+4. 在详情页查看项目评级的可视化展示，评级基于以下六个方面：
+   - 收益能力,
+   - 可持续性，
+   - 胜率,
+   - 风险控制,
+   - 业绩稳定性,
+   - 风险调整。
+### · Top加速 / Top奖金池
+您可以在“Top加速 / Top奖金池”板块中查看排名最高的“加速 / 奖金”池，可以根据“价值 / 年化收益率”来进行排序，从而选取您青睐的池子进行投资。

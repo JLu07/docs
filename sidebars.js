@@ -19,13 +19,14 @@ module.exports = {
       'intro',
     ],
     "Mechanism": [
+      "Collateralized-DEX-Offering",
       "CDO-Core-Concepts",
-      "The-Economics-of-CDO"
+      // "The-Economics-of-CDO"
     ],
     "Contract": [
       "Deployment-Information",
-      "Auction",
-      "Bug-Bounty",
+      "Audit",
+      // "Bug-Bounty",
     ],
     "How to Guides": [
       "How-to-Import-Assets",
@@ -42,8 +43,8 @@ module.exports = {
     ],
     "Whitepaper": [
       "Whitepaper",
-      "Roadmap",
-      "Disclaimers"
+      // "Roadmap",
+      // "Disclaimers"
     ],
     "FAQ": [
       "FAQ"
