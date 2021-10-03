@@ -22,9 +22,9 @@ sidebar_label: 项目管理
 | --- | --- | --- | --- |
 | 基础信息 | 项目代币 | Token | 项目代币的符号 |
 |  | 募集货币 | Currency | 建池所募的本位币 |
-|  | 项目官网 | Official website | 项目官网 |
+|  | 项目官网 | Official Website | 项目官网 |
 | 质押设置 | 质押数量 | Collateral Amount | 质押项目代币的数量须大于该代币发行总量的0.05% |
-|  | 初始质押率 | Original LTV (Loan to Value) | 初始质押率决定了IP的可募资上限 |
+|  | 初始质押率 | Original LTV (Loan to Value) | 初始质押率影响IP的静态可募资金 |
 |  | 清算质押率 | Liquidation LTV | 当本池的动态质押率高于清算点时，IP质押的项目代币将移交给GP。 |
 | 收费设置 | 申购费率 | Charge Rate | IP对GP收取的申购费比率。对GP收取的申购费将会形成一个资金池，IP有权提取其中至多80%的资金，剩余资金将被分配给LP。 |
 | 建池周期 | 建池周期 | Pool Duration | 建池周期必须大于90天；池子创建起至助推池开始的7天内，任何满足条件的主体都可以竞标该池的发起权。 |

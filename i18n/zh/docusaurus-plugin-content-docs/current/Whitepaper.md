@@ -103,10 +103,10 @@ DGT是一个治理代币，同时也被赋予更多功能，DGT持有者将享�
 ## 6. 使用场景
 
    - 支付媒介：重要参与者申购份额使用DGT支付申购费，固定收益者赎回份额用DGT支付赎回费。
-   - 份额申购：策略重要参与者和固定收益者于DeepGo平台锁仓一定时间，以此分配策略的份额打新比例。重要参与者的份额依据$$\rm \scriptsize S=D*\sqrt{I}$$进行分配，其中$$\rm \scriptsize D$$为锁仓的DGT的数量，$$\rm \scriptsize I$$为投资的总数。
+   - 份额申购：策略重要参与者和固定收益者于DeepGo平台锁仓一定时间，以此分配策略的份额打新比例。重要参与者的份额依据$\rm \scriptsize S=D*\sqrt{I}$进行分配，其中$\rm \scriptsize D$为锁仓的DGT的数量，$\rm \scriptsize I$为投资的总数。
 
 ![image.png](/img/invest_change.png)
-![image.png](/img/lock_change.png))
+![image.png](/img/lock_change.png)
 
    - 助推池拍卖：建池发起者可以通过DGT竞拍助推池的发起权。
 
@@ -121,13 +121,20 @@ $$\rm m_t=\dfrac{1}{e_{t}M}\max\left( GP,m_{0}e_{0}M*\left(\sqrt{\dfrac{e_{t}}{e
 
 
 其中：
-$$\rm \scriptsize M$$ 为建池发起者质押的代币总量
-$$\rm \scriptsize GP$$ 为当前GP的总资金量
-$$\rm \scriptsize m_t$$为建池发起者的动态质押率
-$$\rm \scriptsize m_0$$为建池发起者设置的初始质押率
-$$\rm \scriptsize e_0$$为初始兑换率 ：1Token=$$\rm \scriptsize e_0$$本位币
-$$\rm \scriptsize e_t$$为t时刻的兑换率：1Token=$$\rm \scriptsize e_t$$本位币
-$$\rm \scriptsize \alpha$$为平台参数，可以通过社区治理进行调节
+
+$\rm \scriptsize M$ 为建池发起者质押的代币总量，
+
+$\rm \scriptsize GP$ 为当前GP的总资金量，
+
+$\rm m_t$为建池发起者的动态质押率，
+
+$\rm m_0$为建池发起者设置的初始质押率，
+
+$\rm e_0$为初始兑换率 ：1Token=$\rm e_0$本位币，
+
+$\rm e_t$为t时刻的兑换率：1Token=$\rm e_t$本位币，
+
+$\rm \alpha$为平台参数，可以通过社区治理进行调节。
 
 
 针对GP和LP之间的杠杆调节，则主要通过IP建池发起者留存的准备金调节：
@@ -137,10 +144,14 @@ $$\rm L_t~=~ F\left(R*T*K\right)$$
 
 
 其中：
-$$\rm \scriptsize L_t$$​为重要参与者的动态杠杆率
-$$\rm \scriptsize R$$为建池发起者对申购费的留存比例
-$$\rm \scriptsize T$$为重要参与者的换手率
-$$\rm \scriptsize K$$为重要参与者的申购费率
+
+$\rm \scriptsize L_t$​为重要参与者的动态杠杆率，
+
+$\rm \scriptsize R$为建池发起者对申购费的留存比例，
+
+$\rm \scriptsize T$为重要参与者的换手率，
+
+$\rm \scriptsize K$为重要参与者的申购费率。
 
 
 通过风险分级机制，基于自由市场的动态博弈，平台能够确保各方杠杆合理可控。杠杆率的动态变化，将会形成对流动性风险全面评估，为市场参与者提供反馈信号。

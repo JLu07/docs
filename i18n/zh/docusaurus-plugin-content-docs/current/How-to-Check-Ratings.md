@@ -5,7 +5,7 @@ sidebar_label: 项目评级
 ---
 
 ### · 我的关注
-1. 在“探索”界面，您可以在“项目评级 / Top加速池 / Top奖金池”中挑选项目和池子点亮星标![image.png](https://cdn.nlark.com/yuque/0/2021/png/22535237/1631541496067-e7c09989-c101-4df9-a222-1fd77fbb53b4.png#clientId=u5b902cbe-8fbd-4&from=paste&height=18&id=u82284f40&name=image.png&originHeight=52&originWidth=57&originalType=binary&ratio=1&size=1058&status=done&style=none&taskId=u266952eb-5dda-48bb-aefb-4f63a4940bb&width=20)进行关注；
+1. 在“探索”界面，您可以在“项目评级 / Top加速池 / Top奖金池”中挑选项目和池子点亮星标![image.png](/img/star.png)进行关注；
 1. 您可以在“我的关注”中查看&管理您关注的项目/池子。
 ### · 项目评级
 您可以：
