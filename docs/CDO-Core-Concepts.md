@@ -31,7 +31,7 @@ There are three identities of users in the CDO mechanism:
 - $R_I$: risk rate of IP, $R_I=\dfrac{r_t}{r_l}$, when the rate reaches 100%,  IP will be forced to close out.
 ## GP Concepts and Parameters
 
-- Shares allocating is according to $D*\sqrt{I}$, where $D$ is the locked amount of DGT and $I$ stands for the investment amount;
+- Shares allocating is according to $D*\sqrt{I}$, where $D$ is the amount of DGT held and $I$ stands for the investment amount;
 - GP volume: dynamic investible (fundable) cap of the pool;
 - $L_g$: GP leverage ratio (quote token), $L_g=\dfrac{B_g+V_l}{B_g
 }$, where $B_g$ is the balance of GP，$V_l$ is the value of LP's fund allocated to GP.

@@ -6,18 +6,18 @@ sidebar_label: FAQ
 
 ## 交易所API是什么，如何获取交易所API？
 API是交易所为外部获取用户帐户数据，所提供的接口。外部应用可以通过API接口来读取用户帐户的资产信息。**因为API涉及帐户安全问题，请用户在新增API时只选择只读权限**。以下内容将提供，从DeepGo合作交易所获取只读API的教程。
-### · 从币安交易所获取只读API
+### 从币安交易所获取只读API
 登录币安交易所，在右上角帐户处点击‘API Management’进入API管理页面，点击‘Create API’为帐户新建API接口。
 ![image.png](/img/Binance_API_1.png)
 **请确保API只勾选了Enable Reading，提供只读权限以保证自己帐户安全，权限可以通过‘Edit restrictions’编辑。**币安交易所的Secret Key仅在第一次创建时可读，如果需要反复使用该API，请用户自行妥善保存Secret Key。
 ![image.png](/img/Binance_API_2.png)
-### · 从OKEX交易所获取只读API
+### 从OKEX交易所获取只读API
 登录OKEX交易所，在右上角账户处点击‘API’进入API管理界面，点击‘Create API Key’为自己的帐户创建API。
 ![image.png](/img/OKEx_API_1.png)
 **开始创建自己帐户的API时请选择OKEX默认的Read，以保证自己的帐户安全。**Passphrase为帐户API的密码，请用户妥善保存。完成创建之后可以点击‘View’来查看自己的API，**请用户务必确保自己的API权限为Read。**
 ![image.png](/img/OKEx_API_2.png)
 ![image.png](/img/OKEx_API_3.png)
-### · 从Bybit交易所获取只读API
+### 从Bybit交易所获取只读API
 登录Bybit交易所，右上角帐户处点击‘Account & Security’，并且在‘Google Authentication’处完成验证。完成验证之后点击‘API Management’开始创建帐户API。
 ![image.png](/img/Bybit_API_1.png)
 在创建API时，请按照下图配置创建，**为了保证帐户安全，请务必勾选‘Read-Only’**。其中Private Key仅在创建API完成之后可见，如果需要反复使用，请用户妥善保管。
