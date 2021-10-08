@@ -10,6 +10,6 @@ DeepGo 智能合约已经通过了 [Knownsec](https://knownseclab.com/) 的审�
 
 ---
 
-DeepGo 合智能约已经通过了 [CertiK](https://certik.io/) 的审计。
+DeepGo 智能合约已经通过了 [CertiK](https://certik.io/) 的审计。
 CertiK是世界领先的区块链网络安全公司，利用先进的形式化验证技术，用数学方法证明智能合约和区块链生态系统安全无漏洞并可抵御黑客入侵。
 [点击查看](https://github.com/DeepGoLab/docs/blob/master/audit/REP-DeepGo-2021-09-03.pdf). CertiK 于 2021 年 9 月 3 日出具的审计报告。

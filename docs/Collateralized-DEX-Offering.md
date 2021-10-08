@@ -17,7 +17,7 @@ DeFi operates on liquidity, which is expensive to acquire and retain in the curr
 ### Building period
 
 - IP can add the pledge to raise the fund pool size.
-- GP pays the fee to subscribe for the fund pool share. The subscription fee paid by GP will form a vault (IP and LP can draw income from it later). In addition, the share allocated to GP is related to the amount of investment and locked DGT.
+- GP pays the fee to subscribe for the fund pool share. The subscription fee paid by GP will form a vault (IP and LP can draw income from it later). In addition, the share allocated to GP is related to the amount of investment and held DGT.
 - LP investment funds directly into the fund pool.
 ### Ongoing period
 
@@ -35,8 +35,11 @@ DeFi operates on liquidity, which is expensive to acquire and retain in the curr
 During the operation of the fund pool, if the project token price drops and reaches IP's liquidation line, all the IP pledged project tokens will be paid to GP, and GP will get the remaining project tokens after returning LP funds. If the project token price drops and reaches GP's liquidation line, GP will be forced to liquidate and return LP funds.
 ## Benign curation
 Through the collateral and structured fund, CDO in effect creates a steady binding of value between three types of users, which avoids the situation of unilateral short-term evil. And through the two-way feedback loop among the IP's project value and liquidity, GP's excess returns and reputation, and LP's steady earnings and risk control, a benign curation is constructed to screen high-quality assets by the wisdom of crowds.
+
 ![image.png](/img/user_EN.png)
-The appreciation of the project attracts more GPs to join the fund pool and continuously improves the vault. The raising of steady income attracts more LPs to join in, which improves the GP leverage ratio and the liquidity of IP project tokens in DEX to accelerate project development, thus realizing a positive cycle. While project depreciation may produce a negative cycle.
+
+The appreciation of the project attracts more GPs to join the fund pool and continuously improves the vault. The raising of steady income attracts more LPs to join in, which improves the GP leverage ratio and the liquidity of IP project tokens in DEX to accelerate project development, thus realizing a positive cycle. While project depreciation may produce a negative cycle. Project price is the key to this two-way cycle, so DeepGo offers token ratings alongside with CDO to provide more reference for investment.
+
 ![image.png](/img/circle_EN.png)
 
 
