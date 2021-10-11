@@ -1,7 +1,7 @@
 ---
-id: Core-Features
-title: Core Features
-sidebar_label: Core Features
+id: NFT-Minting
+title: NFT Minting
+sidebar_label: NFT Minting
 ---
 
 ## Mint conditions

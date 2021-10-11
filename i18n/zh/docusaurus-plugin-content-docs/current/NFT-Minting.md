@@ -1,7 +1,7 @@
 ---
-id: Core-Features
-title: 核心玩法
-sidebar_label: 核心玩法
+id: NFT-Minting
+title: NFT铸造
+sidebar_label: NFT铸造
 ---
 
 ## 铸造条件
