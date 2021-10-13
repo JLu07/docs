@@ -7,32 +7,28 @@
     "message": "项目简介",
     "description": "The label for category"
   },
-  "sidebar.mySidebar.category.Mechanism": {
-    "message": "机制相关",
-    "description": "The label for category"
-  },
-  "sidebar.mySidebar.category.Contract": {
-    "message": "合约",
-    "description": "The label for category"
-  },
-  "sidebar.mySidebar.category.How to Guides": {
+  "sidebar.mySidebar.category.Guides": {
     "message": "操作指南",
     "description": "The label for category"
   },
+  "sidebar.mySidebar.category.Rating": {
+    "message": "评级",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.Strategy": {
+    "message": "策略",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.Invest": {
+    "message": "投资",
+    "description": "The label for category"
+  },
   "sidebar.mySidebar.category.Tokenomics": {
-    "message": "代币经济",
+    "message": "通证经济",
     "description": "The label for category"
   },
-  "sidebar.mySidebar.category.DeepGo NFT": {
-    "message": "DeepGo NFT",
-    "description": "The label for category"
-  },
-  "sidebar.mySidebar.category.Whitepaper": {
-    "message": "白皮书",
-    "description": "The label for category"
-  },
-  "sidebar.mySidebar.category.FAQ": {
-    "message": "FAQ",
+  "sidebar.mySidebar.category.Project Protocol Intro": {
+    "message": "项目协议介绍",
     "description": "The label for category"
   }
 }

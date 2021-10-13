@@ -18,36 +18,41 @@ module.exports = {
     "DeepGo Intro": [
       'intro',
     ],
-    "Mechanism": [
-      "Collateralized-DEX-Offering",
-      "CDO-Core-Concepts",
-      // "The-Economics-of-CDO"
-    ],
-    "Contract": [
-      "Deployment-Information",
-      "Audit",
-      // "Bug-Bounty",
-    ],
-    "How to Guides": [
-      "How-to-Import-Assets",
-      "Terminology",
-      "How-to-Manage-Project",
-      "How-to-Invest",
-      "How-to-Check-Ratings"
+    "Guides": [
+      {
+        type: 'category',
+        label: 'Rating',
+        items: [
+          "How-to-Check-Ratings",
+          "Rating-Indicators",
+        ],
+      },
+      {
+        type: 'category',
+        label: 'Strategy',
+        items: [
+          "How-to-Import-Assets",
+          "How-to-Share-Strategies",
+        ],
+      },
+      {
+        type: 'category',
+        label: 'Invest',
+        items: [
+          "How-to-Invest",
+          "How-to-Manage-Project",
+        ],
+      }
     ],
     "Tokenomics": [
-      "DGTnomics-V1",
+      "Governance-Token-DGT",
+      "Reputation-NFT-Voyager",
+      "Utility-Token-DSP",
     ],
-    "DeepGo NFT": [
-      "Core-Features",
-    ],
-    "Whitepaper": [
-      "Whitepaper",
-      // "Roadmap",
-      // "Disclaimers"
-    ],
-    "FAQ": [
-      "FAQ"
+    "Project Protocol Intro": [
+      "Collateralized-DEX-Offering",
+      "CDO-Core-Concepts",
+      "Security-And-Transparency"
     ],
   },
 };

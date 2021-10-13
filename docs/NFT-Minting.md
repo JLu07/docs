@@ -1,7 +1,7 @@
 ---
-id: Core-Features
-title: Core Features
-sidebar_label: Core Features
+id: NFT-Minting
+title: NFT Minting
+sidebar_label: NFT Minting
 ---
 
 ## Mint conditions
@@ -28,9 +28,9 @@ The DeepGo NFT picture consists of 5 elements:
       1. Set "Base Currency".
       1. Click "Save".
 3. Public strategy.
-   - Click the asset card to enter the details page, choose "public" to make it shown in "Explore" - "Whale Moving".
+   - Click the "public" button at the top right of the strategy card to make it shown in "Explore" - "Whale Moving".
 4. Share strategies and complete attention tasks.
-   - Click the "share" button on the strategy card to share the strategy with your friends. When the number of fans reachs 3, you can activate the NFT mint function. User names of the first three fans who follow you will be cast on your NFT.
+   - Click the "share" button at the top right of the strategy card to share the strategy with your friends. When the number of fans exceeds 3, you can activate the NFT mint function. User names of the first three fans who follow you will be cast on your NFT.
 5. Finish minting.
-   - Land the "My NFTs" page through the folding menu ![](/img/menu.png) in the upper right corner. Click the blue "mint" button, and the minting will be completed after the transaction is successful.
+   - Land the "NFT Collection" page through the folding menu ![](/img/menu.png) in the upper right corner. Click the blue "mint" button, and the minting will be completed after the transaction is successful.
 
