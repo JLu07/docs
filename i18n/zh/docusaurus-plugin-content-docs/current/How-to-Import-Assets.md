@@ -18,7 +18,7 @@ sidebar_label: 资产导入
 4. 在右上角将呈现您的当前账户和资产；
 4. 在右侧卡片查看资产的变化走势（从导入开始）；
 4. 在资产管理板块查看导入的资产组合卡片，点击卡片进入详情页；
-4. 在详情页，查看导入资产的详细信息，或进行删除、公开操作；公开操作与铸造NFT有关，更多信息请参考DeepGo NFT的[核心玩法](https://deepgolab.github.io/docs/zh/docs/Core-Features)。
+4. 在详情页，查看导入资产的详细信息，或进行删除、公开操作；公开操作与[策略分享](https://deepgolab.github.io/docs/zh/docs/How-to-Share-Strategies)有关。
 ### 从交易所导入
 您可以：
 
@@ -40,4 +40,4 @@ sidebar_label: 资产导入
 4. 在左侧卡片查看总资产及昨日收益情况，数据每隔三十秒同步一次；
 4. 在右侧卡片查看资产的变化走势（从导入开始）；
 4. 在资产管理板块查看导入的资产组合卡片，点击卡片进入详情页；
-4. 在详情页，查看导入资产的详细信息，或进行删除、公开操作；公开操作与铸造NFT有关，更多信息请参考DeepGo NFT的[核心玩法](https://deepgolab.github.io/docs/zh/docs/Core-Features)。
+4. 在详情页，查看导入资产的详细信息，或进行删除、公开操作；公开操作与[策略分享](https://deepgolab.github.io/docs/zh/docs/How-to-Share-Strategies)有关。

@@ -1,7 +1,7 @@
 ---
-id: DGTnomics-V1
-title: DGTnomics V1
-sidebar_label: DGTnomics V1
+id: DeepGo-Tokenomics-V1
+title: DeepGo Tokenomics V1
+sidebar_label: DeepGo Tokenomics V1
 ---
 
 ## Main Functions

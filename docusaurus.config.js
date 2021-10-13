@@ -100,7 +100,7 @@ const katex = require('rehype-katex');
             title: 'More',
             items: [
               {
-                label: 'Deepgo',
+                label: 'DeepGo',
                 href: 'https://deepgo.io',
               },
               {

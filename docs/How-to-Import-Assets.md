@@ -18,7 +18,7 @@ You can:
 4. check your current account and assets in the upper right corner,
 4. view asset trends on the right card (starting from import),
 4. check your portfolio cards in the Asset section, click the card to enter the details page,
-4. in the details page, view details of the imported asset, and perform delete or publish operation; the publish operation is related to minting NFT, see [Core Features](https://deepgolab.github.io/docs/docs/Core-Features) of DeepGo NFT for more details.
+4. in the details page, view details of the imported asset, and perform delete or publish operation; the publish operation is related to [sharing strategies](https://deepgolab.github.io/docs/docs/How-to-Share-Strategies).
 ### Import from Exchanges
 You can：
 
@@ -42,7 +42,7 @@ You can：
 4. check the total assets and yesterday's earnings on the left cards, and the data is synchronized every 30 seconds,
 4. view asset trends on the right card (starting from import),
 4. check your portfolio cards in the Asset section, click the card to enter the details page,
-4. in the details page, view details of the imported asset, and perform delete or publish operation; the publish operation is related to minting NFT, see [Core Features](https://deepgolab.github.io/docs/docs/Core-Features) of DeepGo NFT for more details.
+4. in the details page, view details of the imported asset, and perform delete or publish operation; the publish operation is related to [sharing strategies](https://deepgolab.github.io/docs/docs/How-to-Share-Strategies).
 
 ​
 
