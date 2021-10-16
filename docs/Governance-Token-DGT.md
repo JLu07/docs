@@ -1,7 +1,7 @@
 ---
 id: Governance-Token-DGT
-title: "Governance Token: DGT"
-sidebar_label: "Governance Token: DGT"
+title: "🗳 Governance Token: DGT"
+sidebar_label: "🗳 Governance Token: DGT"
 ---
 
 ## Main Functions
