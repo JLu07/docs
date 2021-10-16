@@ -1,7 +1,7 @@
 ---
 id: Reputation-NFT-Voyager
-title: "Reputation NFT: Voyager"
-sidebar_label: "Reputation NFT: Voyager"
+title: "💠 Reputation NFT: Voyager"
+sidebar_label: "💠 Reputation NFT: Voyager"
 ---
 
 ## Voyager
