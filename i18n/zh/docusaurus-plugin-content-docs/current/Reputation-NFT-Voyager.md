@@ -1,10 +1,10 @@
 ---
 id: Reputation-NFT-Voyager
-title: "💠声誉凭证NFT：Voyager"
-sidebar_label: "💠声誉凭证NFT：Voyager"
+title: "💠 声誉凭证NFT：Voyager"
+sidebar_label: "💠 声誉凭证NFT：Voyager"
 ---
 
-# Voyager
+## Voyager
 Voyager是基于用户在DeepGo的链上社交行为和投资行为的声誉凭证。Voyager由用户花费DGT和DSP铸造和升级。
 
 持有越高级别的Voyager，你才能：
@@ -15,7 +15,7 @@ Voyager是基于用户在DeepGo的链上社交行为和投资行为的声誉凭�
 
 ​
 
-# 声誉级别
+## 声誉级别
 | **级别** | **消耗** | **新解锁特权** |
 | --- | --- | --- |
 | Level1 | 10 DGT + 250 DSP，用于铸造 | 关注用户，订阅策略 |
@@ -27,9 +27,9 @@ Voyager是基于用户在DeepGo的链上社交行为和投资行为的声誉凭�
 
 
 
-# 价值捕获能力
+## 价值捕获能力
 
-- DGT价值捕获能力
+### DGT价值捕获能力
 
 | **级别** | **权重值** |  |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ Voyager是基于用户在DeepGo的链上社交行为和投资行为的声誉凭�
 | Level5 | 12 | 12 |
 | Level6 | 20 | 20 |
 
-- DSP价值捕获能力
+### DSP价值捕获能力
 
 | **级别** | **数量** |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
