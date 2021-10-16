@@ -1,7 +1,7 @@
 ---
 id: Reputation-NFT-Voyager
-title: 声誉凭证NFT：Voyager
-sidebar_label: 声誉凭证NFT：Voyager
+title: "💠声誉凭证NFT：Voyager"
+sidebar_label: "💠声誉凭证NFT：Voyager"
 ---
 
 # Voyager

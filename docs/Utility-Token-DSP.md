@@ -1,7 +1,7 @@
 ---
 id: Utility-Token-DSP
-title: "Utility Token: DSP"
-sidebar_label: "Utility Token: DSP"
+title: "💰 Utility Token: DSP"
+sidebar_label: "💰 Utility Token: DSP"
 ---
 
 ## DSP (Deep Sea Plankton)

@@ -1,7 +1,7 @@
 ---
 id: Security-And-Transparency
-title: Security & Transparency
-sidebar_label: Security & Transparency
+title: 🔐 Security & Transparency
+sidebar_label: 🔐 Security & Transparency
 ---
 
 ## Audit
