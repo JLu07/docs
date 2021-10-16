@@ -11,16 +11,16 @@
     "message": "操作指南",
     "description": "The label for category"
   },
-  "sidebar.mySidebar.category.Rating": {
-    "message": "🔭评级",
+  "sidebar.mySidebar.category.🔭 Rating": {
+    "message": "🔭 评级",
     "description": "The label for category"
   },
-  "sidebar.mySidebar.category.Strategy": {
-    "message": "📈策略",
+  "sidebar.mySidebar.category.📈 Strategy": {
+    "message": "📈 策略",
     "description": "The label for category"
   },
-  "sidebar.mySidebar.category.Invest": {
-    "message": "💸投资",
+  "sidebar.mySidebar.category.💸 Invest": {
+    "message": "💸 投资",
     "description": "The label for category"
   },
   "sidebar.mySidebar.category.Tokenomics": {
