@@ -1,7 +1,7 @@
 ---
 id: Utility-Token-DSP
-title: 效用代币：DSP
-sidebar_label: 效用代币：DSP
+title: 💰效用代币：DSP
+sidebar_label: 💰效用代币：DSP
 ---
 
 ## DSP (Deep Sea Plankton)

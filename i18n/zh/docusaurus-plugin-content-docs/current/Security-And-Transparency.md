@@ -1,7 +1,7 @@
 ---
 id: Security-And-Transparency
-title: 安全与透明
-sidebar_label: 安全与透明
+title: 🔐安全与透明
+sidebar_label: 🔐安全与透明
 ---
 
 ## 合约审计

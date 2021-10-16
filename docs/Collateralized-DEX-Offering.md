@@ -1,7 +1,7 @@
 ---
 id: Collateralized-DEX-Offering
-title: Collateralized DEX Offering
-sidebar_label: Collateralized DEX Offering
+title: ☯ Collateralized DEX Offering
+sidebar_label: ☯ Collateralized DEX Offering
 ---
 
 ## CDO: A Liquidity Solution via Structured Fund
