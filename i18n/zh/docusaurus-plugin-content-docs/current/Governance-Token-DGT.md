@@ -1,7 +1,7 @@
 ---
 id: Governance-Token-DGT
-title: 治理代币：DGT
-sidebar_label: 治理代币：DGT
+title: 🗳治理代币：DGT
+sidebar_label: 🗳治理代币：DGT
 ---
 
 ## DeepGo Token代币
