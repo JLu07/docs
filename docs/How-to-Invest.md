@@ -48,4 +48,4 @@ In the Ended Earn Pool section of the Overview page, you can:
 
 -  redeem your maturing investment in earn pools.
 ### Notice
-The platform will charge 1% of the principal as a commission fee when LP redeems/sells investment in earn pools.
+The platform will charge 1% of the principal as a commission fee when the investment of earn pool is redeemed/sold.

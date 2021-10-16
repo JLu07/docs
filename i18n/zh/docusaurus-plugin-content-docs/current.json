@@ -11,20 +11,24 @@
     "message": "操作指南",
     "description": "The label for category"
   },
-  "sidebar.mySidebar.category.DeepGo NFT": {
-    "message": "DeepGo NFT",
+  "sidebar.mySidebar.category.Rating": {
+    "message": "评级",
     "description": "The label for category"
   },
-  "sidebar.mySidebar.category.Mechanism & Contract": {
-    "message": "机制&合约",
+  "sidebar.mySidebar.category.Strategy": {
+    "message": "策略",
+    "description": "The label for category"
+  },
+  "sidebar.mySidebar.category.Invest": {
+    "message": "投资",
     "description": "The label for category"
   },
   "sidebar.mySidebar.category.Tokenomics": {
-    "message": "代币经济",
+    "message": "通证经济",
     "description": "The label for category"
   },
-  "sidebar.mySidebar.category.Roadmap": {
-    "message": "发展路线",
+  "sidebar.mySidebar.category.Project Protocol Intro": {
+    "message": "项目协议介绍",
     "description": "The label for category"
   }
 }

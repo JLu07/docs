@@ -25,9 +25,9 @@ On the For Project Manager page, you can:
 |  | Official Website | Website of the project |
 | Collateral Settings | Collateral Amount | The number of collateral project tokens must be greater than 0.05% of the total amount of tokens issued. |
 |  | Original LTV (Loan to Value) | Original LTV affects static fundable cap (quote token) |
-|  | Liquidation LTV | If the dynamic collateral rate is higher than the liquidation collateral rate, the project tokens impawned by IP will be handed over to GP. |
-| Fee Tier | Charge Rate | Rate of subscription fee charged by IP to GP. Subscription fees charged to GP will form a vault, of which IP will be entitled to withdraw up to 80%, with the rest allocated to LP. |
-| Pool Duration | Pool Duration | The duration should be at least 90 days. There will be 7days between the creation and the start point of the pool, within which any IPs who meet the requirements could bid for the initiating right. |
+|  | Liquidation LTV | If the dynamic collateral rate is higher than the liquidation collateral rate, the project tokens impawned by the initiator will be handed over to pilots. |
+| Fee Tier | Charge Rate | Rate of subscription fee charged by the initiator to pilots. Subscription fees charged to pilots will form a vault, of which the initiator will be entitled to withdraw up to 80%, with the rest allocated to fellows. |
+| Pool Duration | Pool Duration | The duration should be at least 90 days. There will be 7days between the creation and the start point of the pool, within which any initiators who meet the requirements could bid for the initiating right. |
 
 ### Auction Period
 On the For Project Manager page, you can:
@@ -52,6 +52,6 @@ On the For Project Manager page, you can:
 
 1. view your pool,
 1. add collateral project tokens,
-1. draw up to 80% of the subscription fee from GP as cash flow income, with the rest allocated to LP.
+1. draw up to 80% of the subscription fee from pilots as cash flow income, with the rest allocated to fellows.
 ### Liquidation Period
 The project tokens you impawned will be automatically unlocked and returned to your account.

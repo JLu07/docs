@@ -23,7 +23,7 @@ On the Strategy page, you can:
    - Sustainability
 - search strategies by address, creator name, and strategy name
 - sort strategies by the following fields:
-   - APY
+   - APY (Annual Percentage Yield)
    - Balance
    - Favourites
    - Followers
