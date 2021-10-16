@@ -1,7 +1,7 @@
 ---
 id: Collateralized-DEX-Offering
-title: ☯抵押分级基金跟投机制
-sidebar_label: ☯抵押分级基金跟投机制
+title: ☯ 抵押分级基金跟投机制
+sidebar_label: ☯ 抵押分级基金跟投机制
 ---
 
 ## CDO：一个基于分级投资的流动性解决方案

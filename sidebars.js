@@ -21,7 +21,7 @@ module.exports = {
     "Guides": [
       {
         type: 'category',
-        label: '🔭Rating',
+        label: '🔭 Rating',
         items: [
           "How-to-Check-Ratings",
           "Rating-Indicators",
@@ -29,7 +29,7 @@ module.exports = {
       },
       {
         type: 'category',
-        label: '📈Strategy',
+        label: '📈 Strategy',
         items: [
           "How-to-Import-Assets",
           "How-to-Share-Strategies",
@@ -37,7 +37,7 @@ module.exports = {
       },
       {
         type: 'category',
-        label: '💸Invest',
+        label: '💸 Invest',
         items: [
           "How-to-Invest",
           "How-to-Manage-Project",
