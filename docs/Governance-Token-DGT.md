@@ -9,7 +9,7 @@ DeepGo token embodies governance functions in the DeepGo world.
 
 **Mining**: 
 
-obtain mining incentives, including participating in DGT staking mining and structured fund mining.
+obtain mining incentives, including participating in DGT staking mining and tranche fund mining.
 
 **Identity**: 
 

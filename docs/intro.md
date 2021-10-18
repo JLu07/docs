@@ -12,7 +12,7 @@ Welcome to DeepGo's ocean world! From the beginnings of life to today's complexi
 As a member of the ocean world, you can engage in strategic social to earn DeepGo core tokens, then mint and upgrade the reputation NFT to capture more value, participate in community governance and share the benefits of ecological development.
 ​
 
-The DeepGo ocean world is an on-chain meta-universe starting with ratings, strategy, and NFT features, followed by structured investments and Launchpad capabilities to further expand the ecosystem.
+The DeepGo ocean world is an on-chain meta-universe starting with ratings, strategy, and NFT features, followed by tranche fund and Launchpad capabilities to further expand the ecosystem.
 ## Early-Stage Product
 ### 1. Rating
 DeepGo uses quantitative algorithms to comprehensively evaluate market projects based on winning, revenue, efficiency, stability, drawdown, and sustainability, providing users with objective ratings for investment reference.
@@ -34,4 +34,4 @@ DeepGo builds SocialFi around investment strategies to make Social more function
 ### NFT Reputation Economics
 In the DeepGo world, NFT is an important piece of identity, affecting value capture and unlocking platform functions. The mining incentives (core tokens) that users get through social networking and investment can be considered as tokenized reputation. Through consuming core tokens, reputational value is minted into NFT by upgrading. The user's skills and reputation NFTs are upgraded simultaneously, and more gains are unlocked, which forms a positive cycle based on reputation.
 ### Ecosystem Landscape
-DeepGo launch features based on how difficult they are to get started, gradually grow and strengthen the community and allow users and the platform to grow in tandem. Currently, rating and strategy are open, with structured investments and Launchpad to follow. Simple features first, then difficult, and users gradually accumulate skills when upgrading the reputation NFT to prepare for new functions.
+DeepGo launch features based on how difficult they are to get started, gradually grow and strengthen the community and allow users and the platform to grow in tandem. Currently, rating and strategy are open, with tranche fund and Launchpad to follow. Simple features first, then difficult, and users gradually accumulate skills when upgrading the reputation NFT to prepare for new functions.
