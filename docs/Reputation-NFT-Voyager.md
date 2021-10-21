@@ -37,8 +37,7 @@ The more advanced Voyager you hold, you can:
 ### DSP Value Capture
 | **Level** | **Amount** |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | **Invite**
-**Friends** | **Sign In** | **Import Asset** | **Share Strategy** | **PK Vote** | **PK** |
+|  | **Invite Friends** | **Sign In** | **Import Asset** | **Share Strategy** | **PK Vote** | **PK** |
 | Level1 | - | 1 DSP | 30 DSP/time | 3 DSP/time | 1 DSP/ time | - |
 | Level2 | 2% Friends DSP Rewards | 2 DSP | 60 DSP/time | 6 DSP/time | 2 DSP/time | - |
 | Level3 | 4% Friends DSP Rewards | 4 DSP | 120 DSP/time | 12 DSP/time | 4 DSP/time | Base：12 DSP |
@@ -50,3 +49,6 @@ Remark:
 
 1. The upper limit of the amount of assets imported from the wallet and receiving rewards is Level * 3, the upper limit of the number of rewards for sharing strategy is 10 times/day (rewards are available only when sharing is detected as effective), and the upper limit of the number of rewards for PK voting is 20 times/day  
 1.  Reward rules for PK participation: the top10 strategies' creators will be awarded "base * (11 - ranking)".  
+
+#### Declaration: 
+The actual values of DSP consumption and acquisition are subject to the formal product settings. This value is set by DeepGo data scientists and updated with the iteration of our product. 

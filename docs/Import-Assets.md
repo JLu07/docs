@@ -1,11 +1,11 @@
 ---
-id: How-to-Import-Assets
-title: How to Import Assets
-sidebar_label: How to Import Assets
+id: Import-Assets
+title: 🧮 Import Assets
+sidebar_label: 🧮 Import Assets
 ---
 
 You can move the mouse to the Balance card on the Overview page and click Import, then you can import assets in the Import Asset Data dialog box.  
-### Import from Wallet (MetaMask)  
+## Import from Wallet (MetaMask)  
 You can:
 
 1. select the account to import in MetaMask,
@@ -18,8 +18,8 @@ You can:
 4. check your current account in the upper right corner,
 4. view asset trends on the right card (starting from import),
 4. check your portfolio cards in the Asset section, click the card to enter the details page,
-4. in the details page, view details of the imported asset, and perform delete or publish operation; the publish operation is related to [sharing strategies](https://deepgolab.github.io/docs/docs/How-to-Share-Strategies).
-### Import from Exchanges
+4. in the details page, view details of the imported asset, and perform delete or publish operation; the publish operation is related to [strategies](https://deepgolab.github.io/docs/docs/Utilize-Strategies).
+## Import from Exchanges
 You can：
 
 1. get API Keys and API Secret (and Passphrase for OKEx) from Binance/ByBit/OKEx/FTX/Coinbase，
@@ -46,7 +46,7 @@ You can：
 4. check the total assets and yesterday's earnings on the left cards, and the data is synchronized every 30 seconds,
 4. view asset trends on the right card (starting from import),
 4. check your portfolio cards in the Asset section, click the card to enter the details page,
-4. in the details page, view details of the imported asset, and perform delete or publish operation; the publish operation is related to [sharing strategies](https://deepgolab.github.io/docs/docs/How-to-Share-Strategies).
+4. in the details page, view details of the imported asset, and perform delete or publish operation; the publish operation is related to [strategies](https://deepgolab.github.io/docs/docs/Utilize-Strategies).
 
 ​
 

@@ -7,9 +7,9 @@ sidebar_label: ☯ Collateralized DEX Offering
 ## CDO: A Liquidity Solution via Structured Fund
 DeFi operates on liquidity, which is expensive to acquire and retain in the current market and is often not sustainable over a long time horizon. DeepGo preposes CDO to provide customized services to three types of users:
 
-- Initiator: mainly for managers of projects which need liquidity. Initiators can obtain liquidity and cash flow income by pledging the project tokens.
-- Pilot: mainly for investors who prefer venture investment. Pilots can obtain capital allocation for leverage investment and obtain greater returns by providing vault and capital security to fellows.
-- Fellow: mainly for investors who prefer steady investment. Fellows provide capital and get returns (from the vault) and capital security from pilots.
+- Initiator: mainly for managers of projects which need refinancing and secondary exposure.
+- Pilot: mainly for investors with the pursuit of excess returns
+- Fellow: mainly for investors who prefer steady investment.
 ## Process
 ### Creating period
 
