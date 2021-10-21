@@ -1,18 +1,19 @@
 ---
-id: How-to-Manage-Project
-title: How to Manage Project
-sidebar_label: How to Manage Project
+id: Launch-Funds
+title: 🚀 Launch Funds
+sidebar_label: 🚀 Launch Funds
 ---
 
-You can access the page For Project Manager from the menu ![](/img/menu.png) in the upper right corner.
-### Application
-On the For Project Manager page, you can:
+This feature is coming soon, stay tuned!
+
+## Application
+On the Launch Funds page, you can:
 
 1. click Apply into the Apply page,
 1. register the required information and confirm submission,
 1. initiate the pool after approval of the application.
-### Launch
-On the For Project Manager page, you can:
+## Launch
+On the Launch Funds page, you can:
 
 1. click Launch into the Launch page,
 1. Click Next/Previous on the page to enter/return to the page of Basics, Collateral Settings, Fee Tier, Pool Duration, Review for setting and confirmation, or click the page list on the left of the page to quickly jump to some page,
@@ -29,8 +30,8 @@ On the For Project Manager page, you can:
 | Fee Tier | Charge Rate | Rate of subscription fee charged by the initiator to pilots. Subscription fees charged to pilots will form a vault, of which the initiator will be entitled to withdraw up to 80%, with the rest allocated to fellows. |
 | Pool Duration | Pool Duration | The duration should be at least 90 days. There will be 7days between the creation and the start point of the pool, within which any initiators who meet the requirements could bid for the initiating right. |
 
-### Auction Period
-On the For Project Manager page, you can:
+## Auction Period
+On the Launch Funds page, you can:
 
 1. select a certain pool in the auction period to conduct the "Bid" operation,
 1. give DGT quotation and project token impawned amount in the "Bid" dialog box, and the auction rules are as follows:
@@ -42,16 +43,16 @@ Note:
 
 - In order to avoid last-minute bidding, any new bid within 30 minutes before the end of the auction period will restore the auction period to 30 minutes;
 - Please allow enough time for transactions to avoid failure of bidding.
-### Building Period
-On the For Project Manager page, you can:
+## Building Period
+On the Launch Funds page, you can:
 
 1. view your pool,
 1. add collateral project tokens.
-### Ongoing Period
-On the For Project Manager page, you can:
+## Ongoing Period
+On the Launch Funds page, you can:
 
 1. view your pool,
 1. add collateral project tokens,
 1. draw up to 80% of the subscription fee from pilots as cash flow income, with the rest allocated to fellows.
-### Liquidation Period
+## Liquidation Period
 The project tokens you impawned will be automatically unlocked and returned to your account.
