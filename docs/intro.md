@@ -1,5 +1,5 @@
 ---
-id: intro
+id: Intro
 title: 🌌 DeepGo V1 docs
 sidebar_label: 🌌 DeepGo V1 docs
 slug: /

@@ -16,40 +16,22 @@ module.exports = {
   // But you can create a sidebar manually
   mySidebar: {
     "DeepGo Intro": [
-      'intro',
+      'Intro',
     ],
     "Guides": [
-      {
-        type: 'category',
-        label: '🔭 Rating',
-        items: [
-          "How-to-Check-Ratings",
-          "Rating-Indicators",
-        ],
-      },
-      {
-        type: 'category',
-        label: '📈 Strategy',
-        items: [
-          "How-to-Import-Assets",
-          "How-to-Share-Strategies",
-        ],
-      },
-      {
-        type: 'category',
-        label: '💸 Invest',
-        items: [
-          "How-to-Invest",
-          "How-to-Manage-Project",
-        ],
-      }
+      "Check-Ratings",
+      "Import-Assets",
+      "Utilize-Strategies",
+      "Fund-Terms",
+      "Tranche-Investment",
+      "Launch-Funds",
     ],
     "Tokenomics": [
       "Governance-Token-DGT",
       "Reputation-NFT-Voyager",
       "Utility-Token-DSP",
     ],
-    "Project Protocol Intro": [
+    "CDO Protocol": [
       "Collateralized-DEX-Offering",
       "CDO-Core-Concepts",
       "Security-And-Transparency"
