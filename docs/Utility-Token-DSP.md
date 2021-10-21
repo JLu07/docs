@@ -14,3 +14,6 @@ Minting or upgrading a Voyager requires a rated DGT and a DSP whose consumption 
 - DeepGo does not provide users with the liquidity of DSP.
 
 For details about DSP consumption and acquisition values, see [Reputation NFT: Voyager](https://deepgolab.github.io/docs/docs/Reputation-NFT-Voyager).
+
+### Declaration: 
+The actual values of DSP consumption and acquisition are subject to the formal product settings. This value is set by DeepGo data scientists and updated with the iteration of our product. 
