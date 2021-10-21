@@ -1,7 +1,12 @@
 ---
 id: Tranche-Investment
+<<<<<<< HEAD
 title: Tranche Investment
 sidebar_label: Tranche Investment
+=======
+title: 💸 Tranche Investment
+sidebar_label: 💸 Tranche Investment
+>>>>>>> YT/dev
 ---
 
 This feature is coming soon, stay tuned!
