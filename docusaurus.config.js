@@ -56,7 +56,7 @@ const katex = require('rehype-katex');
             to: 'docs/',
             type: 'doc',
             activeBasePath: "docs",
-            docId: 'intro',
+            docId: 'Intro',
             position: 'left',
             label: 'Docs',
           },
