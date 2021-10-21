@@ -12,3 +12,6 @@ sidebar_label: 💰 效用代币：DSP
 - DeepGo不为用户提供DSP的流动性
 
 DSP的消耗和获取数值设定请参照：[声誉凭证NFT：Voyager](https://deepgolab.github.io/docs/zh/docs/Reputation-NFT-Voyager)。
+
+### 声明：
+DSP的消耗和获取实际数值，以上线产品的设定为准。该数值由DeepGo数据科学家设定，并根据产品迭代更新。
