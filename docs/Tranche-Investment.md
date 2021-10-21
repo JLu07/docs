@@ -1,8 +1,13 @@
 ---
 id: Tranche-Investment
 <<<<<<< HEAD
+<<<<<<< HEAD
 title: Tranche Investment
 sidebar_label: Tranche Investment
+=======
+title: 💸 Tranche Investment
+sidebar_label: 💸 Tranche Investment
+>>>>>>> YT/dev
 =======
 title: 💸 Tranche Investment
 sidebar_label: 💸 Tranche Investment
