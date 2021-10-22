@@ -23,7 +23,7 @@ module.exports = {
       "Import-Assets",
       "Utilize-Strategies",
       "Fund-Terms",
-      "Tranche-Investment",
+      "Tranche-Funds",
       "Launch-Funds",
     ],
     "Tokenomics": [
