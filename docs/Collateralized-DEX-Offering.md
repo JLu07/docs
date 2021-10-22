@@ -4,7 +4,7 @@ title: ☯ Collateralized DEX Offering
 sidebar_label: ☯ Collateralized DEX Offering
 ---
 
-## CDO: A Liquidity Solution via Structured Fund
+## CDO: A Liquidity Solution via Tranche Funds
 DeFi operates on liquidity, which is expensive to acquire and retain in the current market and is often not sustainable over a long time horizon. DeepGo preposes CDO to provide customized services to three types of users:
 
 - Initiator: mainly for managers of projects which need refinancing and secondary exposure.
@@ -34,7 +34,7 @@ DeFi operates on liquidity, which is expensive to acquire and retain in the curr
 ### Liquidation mechanism
 During the operation of the fund pool, if the project token price drops and reaches the initiator's liquidation line, all the initiator pledged project tokens will be paid to pilots, and pilots will get the remaining project tokens after returning fellows' funds. If the project token price drops and reaches the pilot's liquidation line, the pilot will be forced to liquidate and return fellows' funds.
 ## Benign curation
-Through the collateral and tranche fund, CDO in effect creates a steady binding of value between three types of users, which avoids the situation of unilateral short-term evil. And through the two-way feedback loop among the initiator's project value and liquidity, pilots' excess returns and reputation, and fellows' steady earnings and risk control, a benign curation is constructed to screen high-quality assets by the wisdom of crowds.
+Through the collateral and tranche funds, CDO in effect creates a steady binding of value between three types of users, which avoids the situation of unilateral short-term evil. And through the two-way feedback loop among the initiator's project value and liquidity, pilots' excess returns and reputation, and fellows' steady earnings and risk control, a benign curation is constructed to screen high-quality assets by the wisdom of crowds.
 
 ![image.png](/img/user_EN.png)
 
