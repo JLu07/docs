@@ -1,7 +1,7 @@
 ---
-id: Tranche-Investment
-title: 💸 分级投资
-sidebar_label: 💸 分级投资
+id: Tranche-Funds
+title: 💸 分级基金
+sidebar_label: 💸 分级基金
 ---
 
 本功能即将上线，敬请期待！
