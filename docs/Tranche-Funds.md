@@ -1,7 +1,7 @@
 ---
-id: Tranche-Investment
-title: 💸 Tranche Investment
-sidebar_label: 💸 Tranche Investment
+id: Tranche-Funds
+title: 💸 Tranche Funds
+sidebar_label: 💸 Tranche Funds
 ---
 
 This feature is coming soon, stay tuned!

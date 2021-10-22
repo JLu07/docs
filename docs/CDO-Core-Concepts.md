@@ -37,4 +37,4 @@ There are three identities of users in the CDO mechanism:
 }$, where $B_{p}$ is the balance of the pilot，$V_{f}$ is the value of fellows' fund allocated to the pilot.
 ## Fellow-Related Concepts and Parameters
 
-- $E$: cumulative returns of the fellow at time $t$, $$E=\int_{t_0}^ty_tdt$$, where $t_0$ is the last time when the fellow enters the pool, $y_t$ is the benefit of each moment, and $$y_t=\dfrac{B_V}{T-t}\dfrac{S_{f}}{S_F}$$, where $B_V$ is the balance of vault, $T$ is the duration of the pool, $S_f$ is the quote token  balance of someone (fellow).
+- $E$: cumulative returns of the fellow at time $t_{1}$, $$E=\int_{t_0}^{t_{1}}y{\rm d}t$$, where $t_0$ is the last time when the fellow enters the pool, $y$ is the benefit of each moment, and $$y=\dfrac{B_V}{T-t_{0}}\dfrac{S_{f}}{S_F}$$, where $B_V$ is the balance of vault, $T$ is the duration of the pool, $S_f$ is the quote token  balance of someone (fellow).
