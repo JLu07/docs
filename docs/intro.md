@@ -12,26 +12,27 @@ Welcome to DeepGo's ocean world! From the beginnings of life to today's complexi
 As a member of the ocean world, you can engage in strategic social to earn DeepGo core tokens, then mint and upgrade the reputation NFT to capture more value, participate in community governance and share the benefits of ecological development.
 ​
 
-The DeepGo ocean world is an on-chain meta-universe starting with ratings, strategy, and NFT features, followed by tranche funds and Launchpad capabilities to further expand the ecosystem.
+The DeepGo ocean world is the first SocialFi metaverse starting with     analytics, strategy, and NFT features, followed by tranche funds and Launchpad capabilities to further expand the ecosystem.
 ## Early-Stage Product
-### 1. Rating
-DeepGo uses quantitative algorithms to comprehensively evaluate market projects based on winning, revenue, efficiency, stability, drawdown, and sustainability, providing users with objective ratings for investment reference.
+### 1. Analytics
+DeepGo uses quantitative algorithms to comprehensively evaluate market projects based on multiple indicators, providing users with objective analytics for investment reference.
 ### 2. Strategy
-#### Strategy Publish
-DeepGo has built a social platform around strategy. After you import asset data, you can publish it as a strategy.
+DeepGo is a strategy-driven SocialFi metaverse.
+#### Creator Economy
+After importing the asset, users can publish it as a strategy and profit from the creation.  
 #### Social to Earn
-Users are rewarded for social actions, while strategy creators get mining incentives through social rankings.
+Users earn from social activities, while strategy brokers get brokerage fee through strategy promotion.
 #### Play to Earn
-DeepGo innovates with a strategy PK gaming, where users vote to decide the winner. Users who participate in PK and voting will be rewarded, and strategy creators who rank top in PK will get mining incentives.
+DeepGo innovates with a strategy gaming, where users vote to decide the winner. Users who participate in voting will get profits, strategy creators and voters who rank top in the tournament will get generous incentives.
 ### 3. NFT
 #### Reputation NFT
 Voyager is a reputation NFT on the basis of users' social and investment behavior on DeepGo. Users are rewarded with DeepGo core tokens for social and investment performance to pay for Voyager's minting and upgrades. The higher the Voyager level, the more privileges the holder has on features and the ability to earn core tokens.
 #### NFT Market
-Voyager, the reputation credential to the DeepGo platform, is at the heart of the DeepGo token economy. DeepGo will provide a marketplace for trading NFT and related tokens.
+Voyager, the reputation NFT of the DeepGo metaverse, is at the heart of the DeepGo token economy. DeepGo will provide a marketplace for trading NFT and related tokens.
 ## Project Features
-### Investment Strategy theme SocialFi
-DeepGo builds SocialFi around investment strategies to make Social more functional and deliver higher value. Combining Social to Earn and Play to Earn, users can continuously gain benefits and accumulate skills through simple operations. The establishment of reputation NFT grade let users achieve greater harvest in the investment benefit and personal development during the process of gradually reaching the goal.
+### Investment Strategy Driven SocialFi Metaverse
+DeepGo is an investment strategy driven SocialFi metaverse, which makes Social more functional and valuable. Combining Social to Earn and Play to Earn, users can continuously gain benefits and accumulate skills through simple operations. The establishment of reputation NFT grades let users achieve greater harvest in the investment benefit and personal development during the process of gradually reaching the goal.
 ### NFT Reputation Economics
-In the DeepGo world, NFT is an important piece of identity, affecting value capture and unlocking platform functions. The mining incentives (core tokens) that users get through social networking and investment can be considered as tokenized reputation. Through consuming core tokens, reputational value is minted into NFT by upgrading. The user's skills and reputation NFTs are upgraded simultaneously, and more gains are unlocked, which forms a positive cycle based on reputation.
+In the DeepGo metaverse, NFT is an important piece of identity, affecting value capture and unlocking of features. The incentives (core tokens) that users get through social and investment can be considered as tokenized reputation. Through consuming core tokens, reputational value is minted into NFT by upgrading. The user's skills and reputation NFTs are upgraded simultaneously, and more gains are unlocked, which forms a positive cycle based on reputation.
 ### Ecosystem Landscape
-DeepGo launch features based on how difficult they are to get started, gradually grow and strengthen the community and allow users and the platform to grow in tandem. Currently, rating and strategy are open, with tranche funds and Launchpad to follow. Simple features first, then difficult, and users gradually accumulate skills when upgrading the reputation NFT to prepare for new functions.
+DeepGo launch features based on how difficult they are to get started, gradually develop the community and grow with users. Currently, analytics and strategy are open, with tranche funds and Launchpad to follow. Simple features first, then difficult, and users gradually accumulate skills when upgrading the reputation NFT to prepare for new features.
