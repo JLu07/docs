@@ -30,16 +30,14 @@ DeFi operates on liquidity, which is expensive to acquire and retain in the curr
 - Pilots would receive the income from selling the project tokens (from DEX) and return fellows' capital.
 - Fellows could withdraw capital and cumulative income.
 
-![image.png](/img/CDO_EN.png)
+![image.png](/img/CDO_EN.jpg)
 ### Liquidation mechanism
 During the operation of the fund pool, if the project token price drops and reaches the initiator's liquidation line, all the initiator pledged project tokens will be paid to pilots, and pilots will get the remaining project tokens after returning fellows' funds. If the project token price drops and reaches the pilot's liquidation line, the pilot will be forced to liquidate and return fellows' funds.
 ## Benign curation
 Through the collateral and tranche funds, CDO in effect creates a steady binding of value between three types of users, which avoids the situation of unilateral short-term evil. And through the two-way feedback loop among the initiator's project value and liquidity, pilots' excess returns and reputation, and fellows' steady earnings and risk control, a benign curation is constructed to screen high-quality assets by the wisdom of crowds.
 
-![image.png](/img/user_EN.png)
+![image.png](/img/user_EN.jpg)
 
-The appreciation of the project attracts more pilots to join the fund pool and continuously improves the vault. The raising of steady income attracts more fellows to join in, which improves the pilots' leverage ratios and the liquidity of the initiator's project tokens in DEX to accelerate project development, thus realizing a positive cycle. While project depreciation may produce a negative cycle. Project price is the key to this two-way cycle, so DeepGo offers token ratings alongside with CDO to provide more reference for investment.
-
-![image.png](/img/circle_EN.png)
+The appreciation of the project attracts more pilots to join the fund pool and continuously improves the vault. The raising of steady income attracts more fellows to join in, which improves the pilots' leverage ratios and the liquidity of the initiator's project tokens in DEX to accelerate project development, thus realizing a positive cycle. While project depreciation may produce a negative cycle. Project price is the key to this two-way cycle, so DeepGo offers token analytics alongside with CDO to provide more reference for investment.
 
 

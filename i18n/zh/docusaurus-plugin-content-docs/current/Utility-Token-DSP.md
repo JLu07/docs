@@ -5,11 +5,12 @@ sidebar_label: 💰 效用代币：DSP
 ---
 
 ## DSP (Deep Sea Plankton)
-正如DeepGo世界里海洋生物成长需要养料，DSP是用户声誉凭证升级所必需的消耗品之一。用户参与DeepGo的活动获得DSP，并且随着身份升级获得DSP的效率越高。
+正如海洋生物成长需要养料，DSP是DeepGo宇宙中，用户升级声誉凭证NFT所必需的消耗品之一。用户在DeepGo宇宙社交与竞技的同时获取DSP收益，并且随着身份的升级，DSP的获取效率越高。
 
-铸造或升级Voyager需要消耗定量DGT和消耗量随Voyager等级递增的DSP。DGT的消耗数量根据经济系统的变量进行调整。此外：
-- DeepGo不直接向用户出售DSP
-- DeepGo不为用户提供DSP的流动性
+注意：
+- DeepGo不直接向用户出售DSP，
+- DeepGo不为用户提供DSP的流动性，
+- 升级和铸造NFT所用的DSP直接销毁。
 
 DSP的消耗和获取数值设定请参照：[声誉凭证NFT：Voyager](https://deepgolab.github.io/docs/zh/docs/Reputation-NFT-Voyager)。
 
