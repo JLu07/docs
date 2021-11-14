@@ -19,9 +19,10 @@ module.exports = {
       'Intro',
     ],
     "Guides": [
-      "Check-Ratings",
+      "Check-Analytics",
       "Import-Assets",
       "Utilize-Strategies",
+      "Collect-Rewards",
       "Fund-Terms",
       "Tranche-Funds",
       "Launch-Funds",
