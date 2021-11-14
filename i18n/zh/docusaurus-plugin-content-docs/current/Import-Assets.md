@@ -9,21 +9,23 @@ sidebar_label: 🧮 资产导入
 您可以：
 
 1. 在MetaMask中选定需要导入的账户；
-1. 在“导入资产信息”弹窗中依次选择 Ethereum/BSC→MetaMask；
-1. 在后续“Ethereum/BSC”弹窗中：
-   1. 设置资产组合名称（请避免重复命名），
-   1. 设置资产本位/Base Currency，
+1. 在“导入资产信息”弹窗中依次选择 Ethereum / BSC / Polygon → MetaMask；
+1. 在后续“Ethereum / BSC / Polygon”弹窗中：
+   1. 设置“资产组合名称”（请避免重复命名），
+   1. 设置“计价货币”，
    1. 点击保存；
-4. 在左侧卡片查看总资产及昨日收益情况，数据每隔三十秒同步一次；
+4. 在左侧卡片查看总资产及昨日资产变动情况，数据每隔三十秒同步一次；
 4. 在右上角将呈现您的当前账户；
 4. 在右侧卡片查看资产的变化走势（从导入开始）；
-4. 在资产管理板块查看导入的资产组合卡片，点击卡片进入详情页；
-4. 在详情页，查看导入资产的详细信息，或进行删除、公开操作；公开操作与[策略玩法](https://deepgolab.github.io/docs/zh/docs/Utilize-Strategies)有关。
+4. 在“资产管理”板块查看导入的资产组合卡片，
+4. 点击卡片左侧“公开”即可将这一资产组合作为[策略](https://deepgolab.github.io/docs/zh/docs/Utilize-Strategies)发布；
+4. 点击卡片右上角“···”即可进行“分享”、“删除”操作，“已公开”的资产（策略）才可以进行"分享"；
+4. 点击卡片进入详情页，在详情页，查看导入资产的详细信息，或进行“公开”、“删除”操作。
 ## 从交易所导入
 您可以：
 
-1. 在需要导入资产所在的平台 (Binance / ByBit / OKEx / FTX / Coinbase) 上获取API Key和 API Secret（OKEx的Passphrase）；
-1. 在“导入资产信息”弹窗中依次选择 Exchange→Binance / ByBit / OKEx / FTX / Coinbase；
+1. 在需要导入资产所在的平台 (Binance / OKEx / FTX / Coinbase) 上获取API Key和 API Secret（OKEx的Passphrase）；
+1. 在“导入资产信息”弹窗中依次选择 Exchange → Binance / ByBit / OKEx / FTX / Coinbase；
 1. 在后续“Binance / ByBit / OKEx / FTX / Coinbase”弹窗中：
    1. 选定交易合约类型，目前支持的合约类型包括：
       - Binance: 
@@ -31,15 +33,14 @@ sidebar_label: 🧮 资产导入
          - 杠杆账户（逐仓）
          - 现货账户
          - 合约账户
-      - ByBit：合约账户
       - OKEx：统一账户
       - FTX: 钱包（主账户）
       - Coinbase：Assets
    2. 输入您的API Key和API Secret（OKEx还需要Passphrase）,
-   2. 设置您的资产组合名称（请避免重复命名），
-   2. 设定资产本位，
+   2. 设置您的“资产组合名称”（请避免重复命名），
+   2. 设定“计价货币”，
    2. 点击保存；
-4. 在左侧卡片查看总资产及昨日收益情况，数据每隔三十秒同步一次；
+4. 在左侧卡片查看总资产及昨日资产变动情况，数据每隔三十秒同步一次；
 4. 在右侧卡片查看资产的变化走势（从导入开始）；
-4. 在资产管理板块查看导入的资产组合卡片，点击卡片进入详情页；
-4. 在详情页，查看导入资产的详细信息，或进行删除、公开操作；公开操作与[策略玩法](https://deepgolab.github.io/docs/zh/docs/Utilize-Strategies)有关。
+4. 在资产管理板块查看导入的资产组合卡片，点击卡片右上角“···”即可进行“删除”操作；
+4. 点击卡片进入详情页，在详情页，查看导入资产的详细信息，或进行“删除”操作。
