@@ -22,6 +22,7 @@ module.exports = {
       "Check-Analytics",
       "Import-Assets",
       "Utilize-Strategies",
+      "Collect-Rewards",
       "Fund-Terms",
       "Tranche-Funds",
       "Launch-Funds",
