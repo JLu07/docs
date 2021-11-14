@@ -5,13 +5,14 @@ sidebar_label: "💰 Utility Token: DSP"
 ---
 
 ## DSP (Deep Sea Plankton)
-Just as marine life requires nourishment to grow, the DSP is one of the consumables required to upgrade the users' reputation NFTs. Users participate in DeepGo activities to acquire DSP, and the more efficient they become as their NFTs upgrade.
+Just as marine life requires nourishment to grow, DSP is one of the consumables required to upgrade the users' reputation NFTs in DeepGo metaverse. Users social and play to earn DSP, and get more efficiently as they upgrade NFTs.
 ​
 
-Minting or upgrading a Voyager requires a rated DGT and a DSP whose consumption increases with the Voyager level. The amount of DGT consumed is adjusted for variables in the economy. In addition:
+Notice:
 
 - DeepGo does not sell DSP directly to users,
-- DeepGo does not provide users with the liquidity of DSP.
+- DeepGo does not provide users with the liquidity of DSP,
+- The DSP used for upgrading and minting NFT is destroyed directly.
 
 For details about DSP consumption and acquisition values, see [Reputation NFT: Voyager](https://deepgolab.github.io/docs/docs/Reputation-NFT-Voyager).
 

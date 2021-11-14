@@ -5,50 +5,50 @@ sidebar_label: "💠 Reputation NFT: Voyager"
 ---
 
 ## Voyager
-Voyager is a reputation credential based on users' social and investment behavior on DeepGo. Voyager is minted and upgraded by using DGT and DSP.
+Voyager is a reputation NFT based on users' social and investment behaviors in DeepGo metaverse. Voyager is minted and upgraded by consuming DGT and DSP.
 The more advanced Voyager you hold, you can:  
 
-1. capture the core values of DGT to a greater extent, including:  
-   - get extra bonus for boost pool mining,  
-   - get extra rewards for mining Staking, 
-2. earn more DSP in DeepGo world social actions.
+1. capture the core values of DGT to a greater extent, 
+2. social and play to earn more DSP in DeepGo metaverse.
 ## Level
 | **Level** | **Consume** | **New privilege** |
 | --- | --- | --- |
-| Level1 | 10 DGT + 250 DSP，for minting | follow creators, subscribe to strategies |
-| Level2 | 10 DGT + 1000 DSP，for upgrading to Level2 | get invitation reward: if a new user is invited successfully, the inviter will get a share of the new user's social benefits. |
-| Level3 | 10 DGT + 4000 DSP，for upgrading to Level3 | participate in strategy PK |
-| Level4 | 10 DGT + 9000 DSP，for upgrading to Level4 | follow to invest in funds |
-| Level5 | 10 DGT + 16000 DSP，for upgrading to Level5 | lead to investment in funds |
-| Level6 | 10 DGT + 25000 DSP，for upgrading to Level6 | become the fund initiator |
+| New users | - | Follow users, Create strategies, Share strategies |
+| Level1 | 100 DGT + 3621 DSP for minting | Publish strategies, Subscribe strategies |
+| Level2 | 100 DGT + 3972 DSP for upgrading to Level2 | Become the strategies broker |
+| Level3 | 100 DGT + 4097 DSP for upgrading to Level3 | Participate in strategy tournament |
+| Level4 | 300 DGT + 7763 DSP for upgrading to Level4 | Follow to invest in funds |
+| Level5 | 1000 DGT + 11553 DSP for upgrading to Level5 | Lead to invest in funds |
+| Level6 | 1000 DGT + 19044 DSP for upgrading to Level6 | Become the fund initiator |
 
 ## Value Capture
 ### DGT Value Capture
-| **Level** | **Weight** |  |
+| **Level** | **New Mining Methods** | **Staking Mining Weight** |
 | --- | --- | --- |
-|  | **Boost Pool Bonus** | **Staking Mining Bonus** |
-| Level1 | - | 1 |
-| Level2 | - | 2 |
-| Level3 | - | 4 |
-| Level4 | 7 | 7 |
-| Level5 | 12 | 12 |
-| Level6 | 20 | 20 |
+| New users | Staking mining, Liquidity mining | 0.75 |
+| Level1 | Performance mining | 1 |
+| Level2 | - | 1.25 |
+| Level3 | - | 1.5 |
+| Level4 | NudgePool mining | 1.75 |
+| Level5 | Pilot ming | 2 |
+| Level6 | - | 2.25 |
 
 ### DSP Value Capture
-| **Level** | **Amount** |  |  |  |  |  |
+| **Level** | **Brokerage** | **Sign In** | **Import Asset** | **Share Strategy** | **Vote** | **Tournament (Base)** |
 | --- | --- | --- | --- | --- | --- | --- |
-|  | **Invite Friends** | **Sign In** | **Import Asset** | **Share Strategy** | **PK Vote** | **PK** |
 | Level1 | - | 1 DSP | 30 DSP/time | 3 DSP/time | 1 DSP/ time | - |
-| Level2 | 2% Friends DSP Rewards | 2 DSP | 60 DSP/time | 6 DSP/time | 2 DSP/time | - |
-| Level3 | 4% Friends DSP Rewards | 4 DSP | 120 DSP/time | 12 DSP/time | 4 DSP/time | Base：12 DSP |
-| Level4 | 7% Friends DSP Rewards | 7 DSP | 210 DSP/time | 21 DSP/time | 7 DSP/time | Base：21 DSP |
-| Level5 | 12% Friends DSP Rewards | 12 DSP | 360 DSP/time | 36 DSP/time | 12 DSP/time | Base：36 DSP |
-| Level6 | 20% Friends DSP Rewards | 20 DSP | 600 DSP/time | 60 DSP/time | 20 DSP/time | Base：60 DSP |
+| Level2 | 10% | 2 DSP | 60 DSP/time | 6 DSP/time | 2 DSP/time | - |
+| Level3 | 20% | 3 DSP | 90 DSP/time | 9 DSP/time | 3 DSP/time | 60 DSP |
+| Level4 | 30% | 5 DSP | 150 DSP/time | 15 DSP/time | 5 DSP/time | 60 DSP |
+| Level5 | 40% | 8 DSP | 240 DSP/time | 24 DSP/time | 8 DSP/time | 60 DSP |
+| Level6 | 50% | 13 DSP | 390 DSP/time | 39 DSP/time | 13 DSP/time | 60 DSP |
 
 Remark:  
-
-1. The upper limit of the amount of assets imported from the wallet and receiving rewards is Level * 3, the upper limit of the number of rewards for sharing strategy is 10 times/day (rewards are available only when sharing is detected as effective), and the upper limit of the number of rewards for PK voting is 20 times/day  
-1.  Reward rules for PK participation: the top10 strategies' creators will be awarded "base * (11 - ranking)".  
+- Users without NFT cannot get DSP rewards, 
+- the upper bound of rewards for importing asset is 3 times/level  
+- the upper bound of rewards for sharing strategy is 10 times/day (rewards increase only when the shared strategies is viewed by other users),
+- the upper bound of rewards for voting is 20 times/day  
+- Reward rules for the tournament: the top 10 strategies' addresses (creators) will get reward of "base * (11 - ranking)".
 
 #### Declaration: 
-The actual values of DSP consumption and acquisition are subject to the formal product settings. This value is set by DeepGo data scientists and updated with the iteration of our product. 
+The actual values of DGT & DSP consumption and acquisition are subject to the formal product settings. This value is set by DeepGo data scientists and updated with the iteration of our product. 
