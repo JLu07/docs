@@ -46,9 +46,9 @@ The more advanced Voyager you hold, you can:
 Remark:  
 - Users without NFT cannot get DSP rewards, 
 - the upper bound of rewards for importing asset is 3 times/level  
-- the upper bound of rewards for sharing strategy is 10 times/day (rewards are available only when the shared strategies is viewed by other users),
+- the upper bound of rewards for sharing strategy is 10 times/day (rewards increase only when the shared strategies is viewed by other users),
 - the upper bound of rewards for voting is 20 times/day  
-- Reward rules for the tournament: the top 10 strategies' addresses (creators) will get reward of "base * (11 - ranking)", the creators of strategies in a tie share the total rewards of the corresponding rank segment.
+- Reward rules for the tournament: the top 10 strategies' addresses (creators) will get reward of "base * (11 - ranking)".
 
 #### Declaration: 
 The actual values of DGT & DSP consumption and acquisition are subject to the formal product settings. This value is set by DeepGo data scientists and updated with the iteration of our product. 
