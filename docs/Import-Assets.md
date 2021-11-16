@@ -5,7 +5,7 @@ sidebar_label: 🧮 Import Assets
 ---
 
 You can move the mouse to the Balance card on the Overview page and click Import, then you can import assets in the Import Asset Data dialog box.  
-## Import from Wallet (MetaMask)  
+## Import from Wallet 
 You can:
 
 1. select the account to import in MetaMask,

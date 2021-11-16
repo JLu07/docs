@@ -16,7 +16,7 @@ sidebar_label: 📈 策略玩法
 - 在左侧切换推送模式，系统每次会为您推送两个策略，
 - 查看策略信息，选择为其中一个策略投票。
 - 当您的航行者NFT升至三级后，您公开的策略也会被推送给其他用户，从而参与竞技。
-- 参与投票即可获得DSP收益，每日票数排名前十的策略将获得竞技奖励，详情可参考[声誉凭证NFT](https://deepgolab.github.io/docs/zh/docs/Reputation-NFT-Voyager)部分。
+- 参与投票即可获得DSP收益，每日票数排名前十（平票以达成时间排名）的策略将获得竞技奖励，详情可参考[声誉凭证NFT](https://deepgolab.github.io/docs/zh/docs/Reputation-NFT-Voyager)部分。
 
 ## 策略卡片
 您可以在策略页面：

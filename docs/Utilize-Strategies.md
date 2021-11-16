@@ -15,7 +15,7 @@ On the Strategy page, you can:
 - switch the push mode on the left, and the system will push two strategies for you each time，
 - refer to the info of the strategies，and vote for one of them. 
 - When your Voyager NFT reaches level 3，your published strategies will also be pushed to other users to vote for gaming.
-- Voters get DSP income, and the creators of daily top 10 strategies will get tournament rewards, details are visible in [Reputation NFT: Voyager](https://deepgolab.github.io/docs/docs/Reputation-NFT-Voyager).
+- Voters get DSP income, and the creators of daily top 10 strategies in votes (the tie will be ranked by time) will get tournament rewards, details are visible in [Reputation NFT: Voyager](https://deepgolab.github.io/docs/docs/Reputation-NFT-Voyager).
 ## Strategy Card
 On the Strategy page, you can:
 
