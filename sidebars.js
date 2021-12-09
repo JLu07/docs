@@ -37,5 +37,8 @@ module.exports = {
       "CDO-Core-Concepts",
       "Security-And-Transparency"
     ],
+    "Whitepaper": [
+      'Whitepaper',
+    ],
   },
 };
