@@ -18,9 +18,5 @@
   "sidebar.mySidebar.category.CDO Protocol": {
     "message": "CDO协议",
     "description": "The label for category"
-  },
-  "sidebar.mySidebar.category.Whitepaper": {
-    "message": "白皮书",
-    "description": "The label for category"
   }
 }

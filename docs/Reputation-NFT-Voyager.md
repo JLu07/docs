@@ -33,16 +33,6 @@ The more advanced Voyager you hold, you can:
 | Level5 | Pilot ming | 2 |
 | Level6 | - | 2.25 |
 
-### DSP Value Capture
-| **Level** | **Brokerage** | **Sign In** | **Import Asset** | **Share Strategy** | **Vote** | **Tournament (Base)** |
-| --- | --- | --- | --- | --- | --- | --- |
-| Level1 | - | 1 DSP | 30 DSP/time | 3 DSP/time | 1 DSP/ time | - |
-| Level2 | 10% | 2 DSP | 60 DSP/time | 6 DSP/time | 2 DSP/time | - |
-| Level3 | 20% | 3 DSP | 90 DSP/time | 9 DSP/time | 3 DSP/time | 60 DSP |
-| Level4 | 30% | 5 DSP | 150 DSP/time | 15 DSP/time | 5 DSP/time | 60 DSP |
-| Level5 | 40% | 8 DSP | 240 DSP/time | 24 DSP/time | 8 DSP/time | 60 DSP |
-| Level6 | 50% | 13 DSP | 390 DSP/time | 39 DSP/time | 13 DSP/time | 60 DSP |
-
 Remark:  
 - Users without NFT cannot get DSP rewards, 
 - the upper bound of rewards for importing asset is 3 times/level  
