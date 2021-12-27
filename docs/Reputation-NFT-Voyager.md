@@ -34,17 +34,6 @@ The more advanced Voyager you hold, you can:
 | Level5 | 12 | 12 |
 | Level6 | 20 | 20 |
 
-### DSP Value Capture
-| **Level** | **Amount** |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- |
-|  | **Invite Friends** | **Sign In** | **Import Asset** | **Share Strategy** | **PK Vote** | **PK** |
-| Level1 | - | 1 DSP | 30 DSP/time | 3 DSP/time | 1 DSP/ time | - |
-| Level2 | 2% Friends DSP Rewards | 2 DSP | 60 DSP/time | 6 DSP/time | 2 DSP/time | - |
-| Level3 | 4% Friends DSP Rewards | 4 DSP | 120 DSP/time | 12 DSP/time | 4 DSP/time | Base：12 DSP |
-| Level4 | 7% Friends DSP Rewards | 7 DSP | 210 DSP/time | 21 DSP/time | 7 DSP/time | Base：21 DSP |
-| Level5 | 12% Friends DSP Rewards | 12 DSP | 360 DSP/time | 36 DSP/time | 12 DSP/time | Base：36 DSP |
-| Level6 | 20% Friends DSP Rewards | 20 DSP | 600 DSP/time | 60 DSP/time | 20 DSP/time | Base：60 DSP |
-
 Remark:  
 
 1. The upper limit of the amount of assets imported from the wallet and receiving rewards is Level * 3, the upper limit of the number of rewards for sharing strategy is 10 times/day (rewards are available only when sharing is detected as effective), and the upper limit of the number of rewards for PK voting is 20 times/day  
